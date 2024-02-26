@@ -1,0 +1,14 @@
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\bin\Debug\net8.0\telrehber.exe
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\bin\Debug\net8.0\telrehber.deps.json
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\bin\Debug\net8.0\telrehber.runtimeconfig.json
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\bin\Debug\net8.0\telrehber.dll
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\bin\Debug\net8.0\telrehber.pdb
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.AssemblyInfoInputs.cache
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.AssemblyInfo.cs
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.dll
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\refint\telrehber.dll
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.pdb
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\telrehber.genruntimeconfig.cache
+C:\Users\Mehmet Alpergün\source\repos\telrehber\telrehber\obj\Debug\net8.0\ref\telrehber.dll
